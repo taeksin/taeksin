@@ -54,7 +54,7 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 </div>
-<img alt="SASS" src ="https://img.shields.io/badge/VSCODE-#007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=White"/>
+<img alt="VSCODE" src ="https://img.shields.io/badge/VSCODE-#007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=White"/>
 <!--
 **taeksin/taeksin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
