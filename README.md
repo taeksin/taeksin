@@ -107,14 +107,14 @@ My goal is to build safer and more efficient systems through continuous growth a
 | 2020.04.09 ~ 2020.07.08 | 한성대학교 컴퓨터공학부 전공튜터링    |                              |
 
 
-## Project
+<!-- ## Project
 
 | 구분           | 프로젝트명                                     | 링크 |
 |----------------|----------------------------------------------|------|
 | Android        | 대학교재 중고거래 어플리케이션 "복적복적"       | [링크](#) |
 | Web / Frontend | 오프라인 행사 매칭 및 기록 서비스 "Career Festival" | [링크](#) |
 | Web / Frontend | 감정 분석 컨텐츠 추천 일기 서비스 "Suzip"       | [링크](#) |
-| Web / Frontend | AI 기반 웹툰 장면 검색 서비스 "Toon Surfing"    | [링크](#) |
+| Web / Frontend | AI 기반 웹툰 장면 검색 서비스 "Toon Surfing"    | [링크](#) | -->
 
 ## Prize
 
