@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
   </div>
   
-  <p>🛠 개발 환경 및 도구 🛠</p>
+  <br/><p>🛠 개발 환경 및 도구 🛠</p>
   <div>
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/ChromeDriver-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%A9%94%EC%8B%9C%EB%84%88-FF6B6B?style=for-the-badge&logo=messenger&logoColor=white" title="플로우메신저" style="margin: 0 0.5rem 0.5rem 0;" />
   </div>
 
-  <p>🎨 데이터베이스 🎨</p>
+  <br/><p>🎨 데이터베이스 🎨</p>
   <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
