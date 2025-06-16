@@ -20,7 +20,7 @@
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   
-  <p>✨ 플랫폼 및 사용 언어 ✨</p>
+  <br/><p>✨ 플랫폼 및 사용 언어 ✨</p>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
