@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoyo3089)](https://solved.ac/yoyo3089/)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeksin&count_bg=%2379C83D&title_bg=%2369655C&icon=iconify.svg&icon_color=%2377FF9F&title=GITHUB&edge_flat=false"/></a>
+
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -21,10 +21,9 @@
     </a>
 </div><br/>
 
-## 📚 Tech Stack 📚
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   
-  <p>✨ 플랫폼 및 사용 언어 ✨</p>
+  <p>✨ 개발 플랫폼 및 사용 언어 ✨</p>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
@@ -59,8 +58,18 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%A9%94%EC%8B%9C%EB%84%88-FF6B6B?style=for-the-badge&logo=messenger&logoColor=white" title="플로우메신저" style="margin: 0 0.5rem 0.5rem 0;" />
+    <img src="https://img.shields.io/badge/pdfplumber-0A0A0A?style=for-the-badge&logo=pdfplumber&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=Ollama&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
+    <img src="https://img.shields.io/badge/vLLM-0066FF?style=for-the-badge&logo=vLLM&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
   </div>
   
+  <p>☁️ 클라우드 및 서비스 ☁️</p>
+  <div>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
+    <img src="https://img.shields.io/badge/NHN-00A1DE?style=for-the-badge&logo=nhn&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
+  </div>
+
   <p>🎨 데이터베이스 🎨</p>
   <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
@@ -71,8 +80,11 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Proxy-000000?style=for-the-badge&logo=proxy&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
   </div>
-  
+
 </div>
+
+
+
 
 <!--
 **taeksin/taeksin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
