@@ -10,6 +10,9 @@
     <a href="mailto:taeksin@gmail.com" style="margin-right:0.5rem;">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
+    <a href="mailto:yoyo2521@naver.com" style="margin-right:0.5rem;">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+    </a>
     <a href="https://open.kakao.com/o/stVUzeYf" style="margin-right:0.5rem;">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
@@ -18,9 +21,10 @@
     </a>
 </div><br/>
 
+## 📚 Tech Stack 📚
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   
-  <br/><p>✨ 플랫폼 및 사용 언어 ✨</p>
+  <p>✨ 플랫폼 및 사용 언어 ✨</p>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
@@ -33,7 +37,7 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
   </div>
   
-  <br/><p>🛠 개발 환경 및 도구 🛠</p>
+  <p>🛠 개발 환경 및 도구 🛠</p>
   <div>
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/ChromeDriver-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
@@ -56,8 +60,8 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%A9%94%EC%8B%9C%EB%84%88-FF6B6B?style=for-the-badge&logo=messenger&logoColor=white" title="플로우메신저" style="margin: 0 0.5rem 0.5rem 0;" />
   </div>
-
-  <br/><p>🎨 데이터베이스 🎨</p>
+  
+  <p>🎨 데이터베이스 🎨</p>
   <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
@@ -67,7 +71,7 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Proxy-000000?style=for-the-badge&logo=proxy&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
   </div>
-
+  
 </div>
 
 <!--
