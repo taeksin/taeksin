@@ -1,9 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=000000&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+taeksin's+GitHub!👋)](https://git.io/typing-svg)
+# Hello, I'm Kim Taeksin / 김택신 👋
+
+I graduated with a degree in **Computer Science** from **Hansung University**.  
+Currently, I work as a **full-stack web developer**, specializing in **automotive cybersecurity**.  
+I enjoy exploring new technologies and constantly improving my skills.  
+My goal is to build safer and more efficient systems through continuous growth as a developer.
+
+---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoyo3089)](https://solved.ac/yoyo3089/)
-
-
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
