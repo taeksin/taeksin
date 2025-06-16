@@ -52,7 +52,7 @@ My goal is to build safer and more efficient systems through continuous growth a
     <img src="https://img.shields.io/badge/conda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/venv-4B8BBE?style=for-the-badge&logo=Python&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
+    <img src="https://img.shields.io/badge/VScode-0078D7?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
