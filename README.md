@@ -58,7 +58,6 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%A9%94%EC%8B%9C%EB%84%88-FF6B6B?style=for-the-badge&logo=messenger&logoColor=white" title="플로우메신저" style="margin: 0 0.5rem 0.5rem 0;" />
-    <img src="https://img.shields.io/badge/pdfplumber-0A0A0A?style=for-the-badge&logo=pdfplumber&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=Ollama&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/vLLM-0066FF?style=for-the-badge&logo=vLLM&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
   </div>
@@ -73,7 +72,7 @@
   <p>🎨 데이터베이스 🎨</p>
   <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
+    <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Faiss-0B9FDE?style=for-the-badge&logo=faiss&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/pgvector-00758F?style=for-the-badge&logo=postgresql&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
@@ -82,6 +81,56 @@
   </div>
 
 </div>
+
+
+<!-- ## Education
+
+| 기간             | 소속     | 전공 & 교육                       | 학위 | 비고 |
+|------------------|----------|---------------------------------|------|------|
+| 2024.01 ~ 2024.02 | LG       | LG AI aimers 4기                 | 교육 | 수료 |
+| 2024.01 ~ 2024.02 | Naver    | Naver Coaching Study - Data Science | 교육 | 수료 |
+| 2024.07 ~ 2024.08 | SK       | SK AI Data Academy 1기           | 교육 | 수료 |
+| 2025.04 ~ 2025.07 | Kiwoom   | Kiwoom Digital Academy 1기       | 교육 |      | -->
+
+
+## Activity
+
+| 기간                  | 활동명                                | 상세                         |
+|-----------------------|-------------------------------------|------------------------------|
+| 2023.09 ~ 2024.02     | UMC 5기                             | Web 파트 React 스터디         |
+| 2023.01.09 ~ 2023.01.12 | 한성대학교 2023 동계 프로그래밍 캠프    |                              |
+| 2022.03 ~ 2023.06     | 한성대학교 컴퓨터공학부 학술소모임 BUG |                              |
+| 2022.03 ~ 2022.12     | 한성대학교 컴퓨터공학부 학술소모임 include |                              |
+| 2020.04.09 ~ 2020.07.08 | 한성대학교 컴퓨터공학부 전공튜터링    |                              |
+
+
+## Project
+
+| 구분           | 프로젝트명                                     | 링크 |
+|----------------|----------------------------------------------|------|
+| Android        | 대학교재 중고거래 어플리케이션 "복적복적"       | [링크](#) |
+| Web / Frontend | 오프라인 행사 매칭 및 기록 서비스 "Career Festival" | [링크](#) |
+| Web / Frontend | 감정 분석 컨텐츠 추천 일기 서비스 "Suzip"       | [링크](#) |
+| Web / Frontend | AI 기반 웹툰 장면 검색 서비스 "Toon Surfing"    | [링크](#) |
+
+## Prize
+
+| 날짜    | 대회명                      | 상명   | 상세                       |
+|---------|-----------------------------|--------|----------------------------|
+| 2023.09 | 한성대학교 19회 공학경진대회     | 장려상 | 공지사항 알림 서비스          |
+| 2024.09 | 한성대학교 20회 공학경진대회     | 동상   | 유튜브, PDF 요약 서비스       |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
