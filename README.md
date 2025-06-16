@@ -57,7 +57,6 @@
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
-    <img src="https://img.shields.io/badge/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%A9%94%EC%8B%9C%EB%84%88-FF6B6B?style=for-the-badge&logo=messenger&logoColor=white" title="플로우메신저" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=Ollama&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
     <img src="https://img.shields.io/badge/vLLM-0066FF?style=for-the-badge&logo=vLLM&logoColor=white" style="margin: 0 0.5rem 0.5rem 0;" />
   </div>
@@ -115,7 +114,7 @@
 
 ## Prize
 
-| 날짜    | 대회명                      | 상명   | 상세                       |
+| 날짜    | 대회명                      | 수상   | 상세                       |
 |---------|-----------------------------|--------|----------------------------|
 | 2023.09 | 한성대학교 19회 공학경진대회     | 장려상 | 공지사항 알림 서비스          |
 | 2024.09 | 한성대학교 20회 공학경진대회     | 동상   | 유튜브, PDF 요약 서비스       |
