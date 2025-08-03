@@ -5,7 +5,7 @@ Currently, I work as a **full-stack web developer**, specializing in **automotiv
 I enjoy exploring new technologies and constantly improving my skills.  
 My goal is to build safer and more efficient systems through continuous growth as a developer.
 
----
+
 
 
 
@@ -130,7 +130,7 @@ My goal is to build safer and more efficient systems through continuous growth a
 
 
 
-
+---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoyo3089)](https://solved.ac/yoyo3089/)
 
 
