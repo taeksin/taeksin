@@ -7,7 +7,7 @@ My goal is to build safer and more efficient systems through continuous growth a
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoyo3089)](https://solved.ac/yoyo3089/)
+
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -131,7 +131,7 @@ My goal is to build safer and more efficient systems through continuous growth a
 
 
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoyo3089)](https://solved.ac/yoyo3089/)
 
 
 
